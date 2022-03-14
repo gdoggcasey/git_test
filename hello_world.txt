@@ -1,0 +1,3 @@
+Hello Odin!
+
+This is my first text file modification. I am lerning how to use Git. Git is a version control system (VCS) that seems pretty important to learn, especially if I plan on working on a team.
